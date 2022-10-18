@@ -1,0 +1,16 @@
+{
+  "name": "okpr_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "events": "^3.3.0",
+    "process": "^0.11.10"
+  }
+}
